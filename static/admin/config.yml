@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: shahmass/gatnet2  
   accept_roles: #optional - accepts all users if left out
     - admin
