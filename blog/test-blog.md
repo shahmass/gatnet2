@@ -1,5 +1,5 @@
 ---
-path: test-blog
+path: /blog/test-blog
 date: '2018-06-22'
 title: test blog
 ---
